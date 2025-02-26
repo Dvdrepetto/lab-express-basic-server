@@ -13,6 +13,6 @@
         "image": "/rick-morty.png",
         "github": "https://github.com/Rickverse-API-company/rick-and-morty-universe",
         "deployed": "https://picklerick-universe.netlify.app/",
-        "techStack": ["React", "Node", "Firebase", "React Testing Library"]
+        "techStack": ["HTML", "CSS", "JavaScript", "React", "Firebase"]
     }
 ]
